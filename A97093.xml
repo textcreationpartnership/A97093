@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against Master Edwards his old and new poyson: intended to preserve this long distempered nation from a most dangerous relaps. Which his former, his later, and next gangrenous book is likely to occasion, if not timely prevented. by William Walwin.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97093</idno>
+            <idno type="STC">Wing W680</idno>
+            <idno type="STC">Thomason E1184_4</idno>
+            <idno type="STC">ESTC R208196</idno>
+            <idno type="EEBO-CITATION">99867168</idno>
+            <idno type="PROQUEST">99867168</idno>
+            <idno type="VID">119461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1184[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against Master Edwards his old and new poyson: intended to preserve this long distempered nation from a most dangerous relaps. Which his former, his later, and next gangrenous book is likely to occasion, if not timely prevented. by William Walwin.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>[2,], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Paine, dwelling in Red-Crosse-street, in Goldsmiths-Alley, over-against the signe of the Sugar-loafe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Edwards, Thomas.  Gangraena, parts 1-2.</note>
+                  <note>Annotation on Thomason copy: "June 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647. --  Gangraena. --  Part 1-2 --  Controversial literature --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119461:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Antidote</hi> AGAINST MASTER EDWARDS HIS OLD AND NEW POYSON: Intended TO PRESERVE THIS long diſtempered Nation from a moſt dangerous Relaps.</p>
+            <p>WHICH HIS FORMER, HIS later, and next Gangrenous Book is likely to occaſion, if not timely prevented.</p>
+            <p>by WILLIAM WALWIN.</p>
+            <q>
+               <bibl>Deut. 22. 33.</bibl> 
+               <p>Their Wine is the poyſon of Dragons, and the cruell venime <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Aſpes.</p>
+            </q>
+            <q>
+               <bibl>Rom 3. 13.</bibl> 
+               <p>Their throat is an open ſepulcher, with their tongues they <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave uſed deceit, the poyſon of Aſpes is under their lips.</p>
+            </q>
+            <q>
+               <bibl>Proverbs 22. 10.</bibl> 
+               <p>Cast out the ſcorner, and contention ſhall go out: yea, ſtrif<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd reproch ſhall ceaſe.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Thomas Paine,</hi> dwelling in <hi>Red-Croſſe-ſtreet,</hi> in <hi>Goldſmiths-Alley,</hi> over-againſt the ſigne of the <hi>Sugar-loafe.</hi> 1646. <add>June 10th</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:119461:2"/>
+            <pb n="1" facs="tcp:119461:2"/>
+            <head>
+               <hi>An Antidote</hi> AGAINSTMASTER EDWARDS HIS OLD AND NEW POYSON.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough God hath given unto Mr. <hi>Edwards,</hi> parts and abilities, where with a to acquire a comfortable life, in a juſt and good way, and wherein hee might bee helpefull unto many, and hurtfull unto none; nevertheleſſe hee ſeemeth unhappily to have placed his contentment in being a Maſter and Comp<g ref="char:EOLhyphen"/>trouler of other mens judgements and pra<g ref="char:EOLhyphen"/>ctiſes in the worſhip of God, (wherein the Word of God and a mans owne conſcience is only to governe): and thereupon (neceſ<g ref="char:EOLhyphen"/>ſarily) finding oppoſition from al conſcien<g ref="char:EOLhyphen"/>ſious people, hee growes moſt paſſionately impatient, and even violently madd againſt all ſuch as either plead their cauſe, or take their part; plainly manifeſting, throughout
+<pb n="2" facs="tcp:119461:3"/> the whole courſe of his preaching and wri<g ref="char:EOLhyphen"/>ting, that he would eſteem it his greateſt fe<g ref="char:EOLhyphen"/>licity, if he could prevaile with authority, or provoke any others to the perpetuall mole<g ref="char:EOLhyphen"/>ſtation and deſtruction, of all that will not (though againſt their conſciences) ſubmit to thoſe rules which he approveth.</p>
+            <p>Now the piety and juſtice of this Honou<g ref="char:EOLhyphen"/>rable Parliament, having ſo lately freed this long oppreſſed Nation, from this very kind of Tyranny, in the Biſhops and Prelaticall Clergy, and very many judicious, and con<g ref="char:EOLhyphen"/>ſiderate perſons (through a bleſſed opportu<g ref="char:EOLhyphen"/>nity, freedome of diſcourſe, and cleerer ſearch of Scripture then heretofore) being fully ſatisfied in their underſtandings, that to compell or reſtraine, any peaceable per<g ref="char:EOLhyphen"/>ſon in matters of faith, and the worſhip of God, is as reall a ſinne, and as odious in the ſight of God as murther, theft or adultery, and thereupon engaging themſelves in the juſt defence of liberty of conſcience, Maſter <hi>Edwards</hi> his worke (of bowing all to his rule) falls out to be very difficult, and im<g ref="char:EOLhyphen"/>poſſible (by any arguments drawn from the word of God) to be effected, or proved juſt.</p>
+            <p>And this alſo, in ſteed of qualifying his ſpirit, or ſtopping him in his race, hath ſet
+<pb n="3" facs="tcp:119461:3"/> him all on fire, that he rageth like an Iriſh, ravenous and hungry woolfe, deprived of his prey by generous and true Engliſh Ma<g ref="char:EOLhyphen"/>ſtives, that watch both night and day to ſave the harmleſſe and benefitiall ſheep (the Independants and Separatiſts) who from the begining of theſe our troubles, to this very day, have continually without repining con<g ref="char:EOLhyphen"/>tributed their fleece for clothing, and their limbes and lives for nouriſhment, and ſtrength, to preſerve not only their owne liberties, but the juſt liberties of this Nation; Yet nothing abaieth the madneſſe of this prophet; but even (as is to be feared) againſt his owne conſcience, and as if hired there<g ref="char:EOLhyphen"/>unto by ſome politique <hi>Balacks,</hi> hee flieth from one hill to another, from authority to authority, hath his parables and his offer<g ref="char:EOLhyphen"/>ings, and Satan like, would tempt the Lord himſelfe to fall downe and worſhip him, to go againſt his owne declared will, and to ſtir up a perſecuting ſpirit in the Magiſtrate, againſt this his beloved <hi>Iſrael,</hi> to compell them to worſhip him (as doe the Hipo<g ref="char:EOLhyphen"/>crites) againſt their minds and conſciences, then which nothing could be more abomi<g ref="char:EOLhyphen"/>nable in his ſight.</p>
+            <p>And though he cannot but ſee the hand of God againſt him, and that notwithſtan<g ref="char:EOLhyphen"/>ding
+<pb n="4" facs="tcp:119461:4"/> all his oppoſition, or any others, the numbers of them are daily increaſed, and that their faithfulneſſe to the Parliament &amp; co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth, hath cauſed them to grow in favor with al the People; though (if he would ſpeak his heart) he muſt as <hi>Baalam,</hi> perforce acknowledge <hi>there is no enchantment againſt Jacob, nor any divination againſt Iſrael;</hi> no pre<g ref="char:EOLhyphen"/>vailing for a coerſive power, againſt this good people, in a time of refreſhment from any juſt Authority: Yet perſiſts he in his ungodly reſolution, and ſeeing and know<g ref="char:EOLhyphen"/>ing that God will by no meanes anſwer his eager deſire, of curſing this part of his peo<g ref="char:EOLhyphen"/>ple; he ſeemeth to grow deſperate, and like as <hi>Saul</hi> when God had caſt him off, and re<g ref="char:EOLhyphen"/>fuſed to anſwer him, either by <hi>Vrim</hi> or Vi<g ref="char:EOLhyphen"/>ſion, be-tooke himſelfe to the witch of En<g ref="char:EOLhyphen"/>dor, even ſo this moſt unhappy man, beta<g ref="char:EOLhyphen"/>keth himſelfe to <hi>Machivillian</hi> policy, for execution of his cruel purpoſes againſt them: and finding no juſt or judicious party that will afford him any countenance, or aſſi<g ref="char:EOLhyphen"/>ſtance, he applyeth himſelfe to any that hate them, though enemies to the common<g ref="char:EOLhyphen"/>wealth, hazarding the doing of their wrok, ſo that with them, and by them, he may but doe his owne, whereunto the weakneſſes of many wel minded heople miniſtreth to gerat
+<pb facs="tcp:119461:4"/> an advantage, their raſhneſſe and to eaſie credulity, being all the foundation which he hath now left, to build his hopes upon, for if theſe would but a while ſuſpend their belief, and patiently conſider the things he hath ſpoken or is about to publiſh, and would there upon with draw themſelves from his wicked and deluſive counſels, and inſteed thereof would fall to councelling of him to forſake his violent Rayling, and reviling, of a people they know to be faithfull, it were then impoſſible for him to effect his unjuſt deſignes, w<hi rend="sup">ch</hi> alſo (if effected) muſt neceſſa<g ref="char:EOLhyphen"/>rily be the bondage or ruin of all ſorts of wel minded people, as wel Presbiterians as others (however his charmings may for the preſent flatter them) that muſt and will be the con<g ref="char:EOLhyphen"/>cluſion, if they continue to take in his poy<g ref="char:EOLhyphen"/>ſonous counſells, how pleaſing ſoever they ſeem to a pallat corrupted by long coſtome; they are poyſonous, and will in time both ſwell and deſtroy them.</p>
+            <p>And therefore unto this ſort of people, doe I at this time principally ad<g ref="char:EOLhyphen"/>dreſſe this diſcourſe by way of <hi>Anti<g ref="char:EOLhyphen"/>dote,</hi> to prevent the working of his banefull Counſels, and to fruſtrate his accurſed ends.</p>
+            <p>This unjuſt man, knoweth all juſt and
+<pb n="6" facs="tcp:119461:5"/> judicious men, cannot but oppoſe his un<g ref="char:EOLhyphen"/>juſt deſignes, and therefore it is, he hath de<g ref="char:EOLhyphen"/>nounced ſo many of them by name in his books, as his enemies, his ableſt enenies they are, and the more powerfull, becauſe they are all knowne to be really faithfull to the Parliament: In this caſe ſaith <hi>Machivel</hi> there is but one help, that is. they muſt be brought into diſgrace, and diſrepute, with the people, for if theſe remain in credit, the people will give eare unto them, be rightly informed by them &amp; be in no capacity to be deceived: well ſaies M<hi rend="sup">r.</hi> 
+               <hi>Edwards,</hi> how ſhall they be ſufficiently reproached: Why ſaies <hi>Machivel,</hi> ſeek out unto your ayd honeſt zealous perſons of godly life, and good re<g ref="char:EOLhyphen"/>pure in the world, ſuch as you know are fiery hot againſt errours and hereſies ſo called, and unto them ſadly complaine of the dayly infinite increaſe thereof, &amp; intreat their aſſiſtance in the extirpation of them, &amp; for that end deſire them to collect their me<g ref="char:EOLhyphen"/>mories, what they have heard in any diſ<g ref="char:EOLhyphen"/>courſe, what they have any waies obſerved or knowne, to proceed from ſuch and ſuch men, naming divets, that are taken and re<g ref="char:EOLhyphen"/>puted to be either grand Hereticks, and Schiſmatiques themſelves, or the defend<g ref="char:EOLhyphen"/>ers and maintainers of them, by word or
+<pb n="7" facs="tcp:119461:5"/> writing, tell them you have heard that ſuch and ſuch, hold and ſuch blaſphemous opinions, at ſuch and ſuch a time uttered, ſuch &amp; ſuch horrible ſpeeches, pray them to conſider how exceeding neceſſary it is ſuch things were knowne, and made publique to all the world, left through ignorance ſuch blaſphemous and hereticall perſons in time get into offices of Magiſtracy, if not into the Parliament it ſelfe; lay before thom the dan<g ref="char:EOLhyphen"/>ger if it ſhould be ſo, and intreat them (for prevention) that they will thruſt themſelves into all meetings, companies, and ſocieties, to provoke diſcourſes, and to take notice of what they obſerve, or can any waies learne of any of them or any others, and it ſhall be your care to divulge them to the world, in the ſtrongeſt colours your Art can give them: And (ſaith <hi>Machivel)</hi> as they through eagerneſſe, will over-heare and make things worſe then they were either ſpoken or in<g ref="char:EOLhyphen"/>tended, ſo it muſt be your care to make them rather worſ then better, then their relations, you muſt be ſure to caſt durt enough upon them, ſome will ſtick, and a little (amongſt thoſe you would pervert) will ſuffice to ble<g ref="char:EOLhyphen"/>miſh the cleareſt and moſt able amongſt them, and to deprive them of all credit and and repute for ever.</p>
+            <pb n="8" facs="tcp:119461:6"/>
+            <p>If you obſerve any man to be of a publique and active ſpirit, (though he be no Indepen<g ref="char:EOLhyphen"/>dent or Separatiſt) he can never be friend to you in your work, and therefore you are to give him out, to be ſtrongly ſuſpected of whoredom, or drunke<g ref="char:cmbAbbrStroke">̄</g>neſſe, prophaneſſe, an irreligious perſon, or an Atheiſt, and that by godly and religious perſons, he was ſeen and heard blaſpheming the holy Scriptures, and making a mock of the Ordinaces of Chriſt, or ſay he is ſuſpected to hold inteligence with Oxford, or any thing no matter what, ſomewhat will be beleeved, you cannot be ignorant how much this hath prevailed a<g ref="char:EOLhyphen"/>gainſt divers able perſons.</p>
+            <p>If you ſee any ſuch man but once talking with a Papiſt, or (though not) you may give out that very honeſt men ſuſpect him to be a Jeſuit: If any one but demand of you or any others, how you know the Scriptures to be the word of God, give it out for cer<g ref="char:EOLhyphen"/>tain he denieth them, or if any put queſtions concerning <hi>God</hi> or <hi>Chriſt,</hi> or the <hi>Trinity,</hi> you have more then enough to lay accuſations upon them, that ſhall ſtick by them as long as they live, if you will follow this my coun<g ref="char:EOLhyphen"/>ſell throughly ſaith <hi>Machivel</hi> (as in part you have done) you cannot faile of your end, you can never want matter, you ſhall (amongeſt
+<pb n="9" facs="tcp:119461:6"/> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe you deceive) be taken for a moſt zea<g ref="char:EOLhyphen"/>ous, holy, and religious man, you may write book upon book, great and large ones, and make good profit (or great re<g ref="char:EOLhyphen"/>nowne) by them, and in after ages, be recor<g ref="char:EOLhyphen"/>ded as a famous Author.</p>
+            <p>Moreover if you proſecute this courſe, you may haply hereby not only hold your friends firme unto you, ready upon all occa<g ref="char:EOLhyphen"/>ſions to petition what you wold have them, or to doe any thing you ſhall require them, but you ſhall be ſure to hold them for ever devided from your adverſaries, in all things, they ſhall not regard any thing, though ne<g ref="char:EOLhyphen"/>ver ſo juſt or good, if they ſee they have but a finger therein, nay if work wiſe<g ref="char:EOLhyphen"/>ly, you need not diſpaire of dividing your moſt powerfull adverſaries amongſt them<g ref="char:EOLhyphen"/>ſelvs, doubts &amp; jelouſies being of great force:</p>
+            <p>And you know it is an undoubted truth, a houſe divided within it ſelfe cannot ſtand.</p>
+            <p>This is <hi>Machivels</hi> way; and this hath been Mr. <hi>Edwards</hi> his way; and in this way hee goeth on, but the way of God have they not knowne, or rather have they not deſpiſed the way of the Lord.</p>
+            <p>This is the Poyſon by which he hath en<g ref="char:EOLhyphen"/>venomed the hearts and underſtandings of thouſands in themſelves) honeſt, religious
+<pb n="10" facs="tcp:119461:7"/> people, too too eaſily miſſe-led, for want of knowledge or conſideration of theſe <hi>Machi<g ref="char:EOLhyphen"/>velian</hi> courſes; men that being ſinceare in their owne intentions, are eaſily deluded by the leaſt pretence of zeal and godlineſſe.</p>
+            <p>And however his heart may be hardned that he will not regard any thing, that hath been written unto him; you that have been deceived by him, are not ſo farre gone but you may yet recover, &amp; become untainted, with the leaſt ſavour of his ſpirit, and in time abominate his waies:</p>
+            <p>But ſurely then you muſt conſider things more ſeriouſly then hitherto you have done, you muſt ſuſpect your owne waies, and compare them once more with the waies of God, commended to you in his ho<g ref="char:EOLhyphen"/>ly Word; That is the only <hi>Antidote</hi> that is able to expell the Poyſon you have taken, or ſhall be offered in his next book; you know the word of God is mighty to the ca<g ref="char:EOLhyphen"/>ſting down of ſtrong holds, &amp; to bring in<g ref="char:EOLhyphen"/>to ſubjection all <hi>Machivelian</hi> Imaginations.</p>
+            <p>I ſhall therefore pray you in reading his next book which (it is to be feared) is reſer<g ref="char:EOLhyphen"/>ved for an accurſed purpoſe, and to ſecond ſome worke of Darkneſſe; that you will with open eyes ſee how farre, and how plau<g ref="char:EOLhyphen"/>fible <hi>Machivel</hi> may go with colours of reli<g ref="char:EOLhyphen"/>gion
+<pb n="11" facs="tcp:119461:7"/> transforming himſelfe into an An<g ref="char:EOLhyphen"/>gell of light.</p>
+            <p>Alſo that you will not haſtily give credit to any thing ſpoken by him a profeſſed ad<g ref="char:EOLhyphen"/>verſary, leſt in ſo doing, you become guilty of bearing falſe witneſſe againſt your neigh<g ref="char:EOLhyphen"/>bour.</p>
+            <p>That you will conſider and marke thoſe that cauſe diviſions and offences, contrary to <hi>the doctrine which ye have learned,</hi> and avoid them: <hi>Rom. 16. 17.</hi>
+            </p>
+            <p>That you will mind a ſpeciall part of that doctrine to be expreſſed in the fourteenth Chapter thorow-out, and the beginning of the fifteenth, which I entreat you to reade without prejudice or preoccupation of judg<g ref="char:EOLhyphen"/>ment; and then I cannot doubt, but liberty of conſcience will appeare more juſt in your eyes, then it hath done, and confeſſe that your ſelves cannot live without it.</p>
+            <p>That you will lay to heart how dangerous it may prove to the Common wealth, and to the cauſe you have hitherto <hi>joyntly</hi> main<g ref="char:EOLhyphen"/>tained, (God proſpering you in ſo doing) if by any policies you ſhould ſtand divided from thoſe your brethren of other judge<g ref="char:EOLhyphen"/>ments; beleeve it, the hand of <hi>Joab</hi> is in all your diviſions, what-ever you ſee or judge, your common enemy, is the fomenter of
+<pb n="12" facs="tcp:119461:8"/> them; and under what notion or colours ſo<g ref="char:EOLhyphen"/>ever they appeare, they are a common ene<g ref="char:EOLhyphen"/>mie to you both, that labour to divide you, and in the end, you will find it to be ſo to your coſt, if not to your ruine.</p>
+            <p>An ancient Philoſopher (ſomewhat to this purpoſe) hath a fable, That the Wolves being at long and deadly war with the ſheep, and not prevailing by force; but contrary to their expectation almoſt vanquiſhed: Reſol<g ref="char:EOLhyphen"/>ved to try what they could doe by policie, and thereupon deſired a treaty, which the ſheep ſimply and eaſily granted: The prin<g ref="char:EOLhyphen"/>cipall ſimply and eaſily granted: The prin<g ref="char:EOLhyphen"/>cipall thing in the treaty, which the Wolves inſiſted on, was, that the ſheepe would but diſcharge &amp; ſend away their dogs, and then there would be no cauſe of warre at all, but they ſhould live quietly one by another, urging withall, that the dogs were of a quar<g ref="char:EOLhyphen"/>relſome diſpoſition, had been the beginners and continuers of the war, that they were of a different nature &amp; temper from the ſheep, maintain'd the war only for their own ends, and in probability were like enough to make a prey of the ſheep themſelves, and the like; if they would diſcharge them, they would give them what ſecurity themſelves would deſire, for aſſurance of their peaceable neigh<g ref="char:EOLhyphen"/>bour-hood. The poor ſheep ſoon weary of
+<pb n="13" facs="tcp:119461:8"/> the charge and trouble of war<g ref="char:punc">▪</g> yeelded ther<g ref="char:EOLhyphen"/>unto, and diſcharged their dogges, their ſtrongeſt help, (whereby they had not only preſerved themſelves, but by many battels and maine force had even quite vanquiſhed the Wolves) w<hi rend="sup">ch</hi> was no ſooner done, but the Wolves in ſhort time muſter up their force, (the dogs being out of call) and when the ſheep leaſt ſuſpected, fell upon them and deſtroyed them utterly.</p>
+            <p>I conceive this could never have been ef<g ref="char:EOLhyphen"/>fected, but that the Wolves had conveyed ſome of themſelves into ſheepes cloathing, who by flattering and diſſembling cariage, got themſelves into credit with the ſheeps, and ſo perſwaded to this goodly treaty, and wrought them to thoſe deſtructive condi<g ref="char:EOLhyphen"/>tions.</p>
+            <p>And (if well conſidered) this fable (though dogs and Chriſtians hold no fit compariſon) may demonſtrate, that whoſoever doth, or ſhall endevour to perſwade the godly and honeſt Presbyters to abandon, diſcourage or moleſt their faithfull, helpfull, valiant and aſſured friends of other judgements (whom Mr. <hi>Edwards</hi> would have to be uſed worſe then dogs) they are at beſt, but Wolves, or Wolves friends, and ſeek the deſtruction of all honeſt people, of what judgement ſoever.</p>
+            <pb n="14" facs="tcp:119461:9"/>
+            <p>And whether. Maſter <hi>Edwards</hi> do expreſly ayme at ſo horrid an iſſue, or not; for cer<g ref="char:EOLhyphen"/>taine, his workes and endevours do mainly tend thereunto, and will help on the wicked purpoſes of any that intend the deſtruction of the ſheepe.</p>
+            <p>But, bleſſed be God, we are not as ſheepe without a ſhepherd, wee have had, and ſtill have faithfull &amp; reſolved ſhepherds ſet over us by providence, in a moſt juſt and orderly way, a <hi>Parliament</hi> (the terror of the wicked, and co<g ref="char:cmbAbbrStroke">̄</g>fort of the juſt) that for theſe 5. years and upwards, have been a ſtrong Tower of defence to the ſheep of the Lords Paſture, to all the godly party in the Land: and though many of our froward and weak ſheepe have many times been tampring &amp; harkening af<g ref="char:EOLhyphen"/>ter offers and conditions as dangerous to the whole flocke, as the diſcharging of that ſtrength, the Wolves moſt feared; yet hath the wiſdom of thoſe our faithfull Shepherds hitherto prevented the ſame; and according to the true rules of wiſdom have made moſt uſe of thoſe whom the Wolves moſt feared.</p>
+            <p>And we truſt the ſame God that endowed them with ſuch a new modeliſing wiſdome, as hath been ſucceſſefull to the aſtoniſhment both of their friends and enemies, will ſtill guide and direct them, when the policies of
+<pb n="15" facs="tcp:119461:9"/> the enemies, are moſt buſie and ſtrongly working; and when the weakneſſe and fro<g ref="char:EOLhyphen"/>wardneſſe of their friends are moſt trouble<g ref="char:EOLhyphen"/>ſome &amp; importunate for deſtructive things, yea though ſome ſhould be wrought upon ſo farre, as to ſhew a weariſomneſſe of theſe their Shepherds; the ſame God will then we doubt not, ſhew his mighty power and wiſ<g ref="char:EOLhyphen"/>dome in them, and thereby preſerve this whole Nation, from a moſt dangerous <hi>Re<g ref="char:EOLhyphen"/>laps,</hi> which otherwiſe were to be feared:</p>
+            <p>The whole flock is their charge, God hath made them Overſeers of the whole, and to our joy and comfort they have hitherto ſhewed, agreater care to preſerve the whole People, then to pleaſe any part of them; in unreaſonable things: and in ſo do<g ref="char:EOLhyphen"/>ing they have been (and cannot but be) bleſ<g ref="char:EOLhyphen"/>ſed and proſperous:</p>
+            <p>And notwithſtanding Mr. <hi>Edwards</hi> his verlomous poyſon, blowne abroad by his unhappy quill, to blaſt and deſtroy the re<g ref="char:EOLhyphen"/>pute of honeſt, religious, and faithfull men, yet (the tree being knowne by his fruite) the Parliaments wisdome expelleth his poyſon and ſheweth no diſrepect to any honeſt re<g ref="char:EOLhyphen"/>ligious perſon, and every juditious man fol<g ref="char:EOLhyphen"/>loweth their worthy example therein: and when you that are weak and have been miſ<g ref="char:EOLhyphen"/>led,
+<pb n="16" facs="tcp:119461:10"/> and tainted with his poyſon, ſhall con<g ref="char:EOLhyphen"/>ſider it, your judgments I truſt will be recti<g ref="char:EOLhyphen"/>fied, and ſtrengthened ſo ſufficiently, that you will no longer judge of men according to his malitious accuſations, but according to their workes and what you ſee them doe:</p>
+            <p>Which if you doe, wee ſhall have done with his poyſonous, and ſcandalous bookes, which ſerve for nothing but to deceive and deſtroy the people; great quientneſſe will fol<g ref="char:EOLhyphen"/>low thereupon, and you will ſoone finde a nearer way to a finall end of your troubles, then the wrangling way he hath propoſed, for if once you were united you would have no enemies; your warre would be at an end; your peace would be ſure, and all the people ſafe and happy;</p>
+            <closer>
+               <signed>Which is my only ayme in this work and my moſt earneſt deſire: <hi>WILLIAM WALWIN</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="17" facs="tcp:119461:10"/>
+            <head>A GRAINE MORE, <hi>And no more.</hi>
+            </head>
+            <p>OBſerving by ſome paſſages and occur<g ref="char:EOLhyphen"/>rences of late, that all the labour be<g ref="char:EOLhyphen"/>ſtowed towards the converſion and reducing of Maſter <hi>Edwards</hi> into a truly, charitable, and Chriſtian diſpoſition, hath proved no other, then as the waſhing of a Blackamoore; and thereupon, daily expe<g ref="char:EOLhyphen"/>cting a poyſonous iſſue from his infectious braine. To prevent the miſchiefe that might enſue: I prepared this little <hi>Antidote,</hi> inten<g ref="char:EOLhyphen"/>ding to have had it in ſuch a readineſſe, as that it ſhould have met his poyſon in the in<g ref="char:EOLhyphen"/>ſtant he firſt ſpread it, wherein I did my part, but the Printers miſtake hindred it.</p>
+            <p>Thoſe therefore that have read his new Gangrenous and ſcandalous book, and doe find themſelves any whit tainted with the poyſon thereof, and have ſlept upon it: My friendly adviſe is, that they take double the quantity of this <hi>Antidote:</hi> that they reade this little Treatiſe twiſe over, and conſider every part of it ſeriouſly and deliberately, and if they are any thing farre gone, and in
+<pb n="18" facs="tcp:119461:11"/> danger: then it will be neceſſary they adde thereunto a good quantity more of <hi>true Chriſtian love,</hi> it will be ſomewhat hard to find, there being abundance every where of that which is counterfeit, the beſt of which will do more hurt then good; and therefore it will be needfull you get the help of ſome that by experience can diſtinguiſh the true from the falſe, and ſuch a one I can aſſure you is alſo very hard to find: but without it there is no hope, and with it there is infallible certainty of recovery.</p>
+            <p>If there were not much falſe and counter<g ref="char:EOLhyphen"/>feit love abroad, this wretched man with all his curſed diligence could never have been furniſhed with matter to have ſweld his poy<g ref="char:EOLhyphen"/>ſonous bulck to ſo vaſt a greatneſſe.</p>
+            <p>And truly had thoſe whoever they are that gave thoſe malicious informations con<g ref="char:EOLhyphen"/>cerning me, as he reciteth them if they had had, but one ſcruple of <hi>true Chriſtian love</hi> in them they never had adminiſtred to his (ſo unmanly) occaſion.</p>
+            <p>I bleſſe God, I have through diligent ſeek<g ref="char:EOLhyphen"/>ing found this pretious liquor, and have e<g ref="char:EOLhyphen"/>nough to ſpare upon thoſe his unadviſed in<g ref="char:EOLhyphen"/>telligencers, and through the power thereof can freely forgive their evill intentions, which my conſcience aſſures me, I never de<g ref="char:EOLhyphen"/>ſerved
+<pb n="19" facs="tcp:119461:11"/> from any, I ever converſed withall, or that ever knew me.</p>
+            <p>As for himſelfe, if paſſion and fore-judging did not blind mens underſtandings, and that moſt men are tranſported with flaſhy fan<g ref="char:EOLhyphen"/>cies, and are unapt to conſider things judici<g ref="char:EOLhyphen"/>ouſly, it would evidently appeare, that he hath not in any meaſure auſwered, either my <hi>Whiſper</hi> or <hi>the Word more</hi> both which wil live in deſpite of his utmoſt venome, and will concerne him, and all ſuch deceivers as he is, being there ſet forth in their trueſt colours, nor is his neglect of them, any o<g ref="char:EOLhyphen"/>ther but a device to keep mens eyes off from reading or regarding them, wherein he hath indeed dealt very pollitiquely, and like one fully poſſeſt with a true <hi>Machivillian</hi> ſpirit, which more evide<g ref="char:cmbAbbrStroke">̄</g>tly appeareth in laying his charge upon me in ſuch ſubjects, as where<g ref="char:EOLhyphen"/>in he knoweth the preſſes in theſe times are not admitted the leſt meaſure of free<g ref="char:EOLhyphen"/>dome, &amp; if I ſhould inſiſt upon the miſtakes, &amp; nullities in the charge, I ſhould be inforc'd to uſe the names of ſome perſons, I much eſteeme for that publique affection I have ſeen in them, and for the un-interupted frie<g ref="char:cmbAbbrStroke">̄</g>dſhip I have had with them, which is no waies ſutable to my ſpirit: inſomuch as I
+<pb n="20" facs="tcp:119461:12"/> am yet unreſolved what courſe to take, be<g ref="char:EOLhyphen"/>ſides, ſince it concernes only my particuler, and that of neceſſity it will occaſion a bulk in print beyond my temper, the world being alſo oppreſt with books of particuler conteſt, I beleeve I ſhall incline to forbeare, though I am not certaine.</p>
+            <p>As for thoſe who know me, or <hi>throughly</hi> know him, with al thoſe I ſhal remain unpre<g ref="char:EOLhyphen"/>judiced in my repute, though he ſhould have ſpet al hisvenome at once, and as for thoſe that neither know him nor me, I ſhal (and I think may) ſafely truſt my credit to the oper<g ref="char:EOLhyphen"/>ation of my Antidote, &amp; to the moſt pow<g ref="char:EOLhyphen"/>erful additio<g ref="char:cmbAbbrStroke">̄</g> of true Chriſtian love, w<hi rend="sup">ch</hi> were there need in this cauſe) would cover abun<g ref="char:EOLhyphen"/>dance of evill: love is the balſome which in my Whiſper I really commended to his uſe, but either he will not uſe it, or takes not that paynes to rub it in which I adviſed, but though I have caſt my pearle amiſſe, and have ſped accordingly; that ſhall not hinder or abate my eſteem of ſo pretious a Iewell, it is the delight of life, and the joy of Heaven, and whilſt I live I truſt I ſhall live in love, and when I dye, that I ſhall dye in this love, and Riſe and remain Eternally in love, that is in God (for God is love) in whoſe preſence
+<pb n="21" facs="tcp:119461:12"/> there is fulneſſe of joy; at whoſe wright hand there are pleaſures for evermore; and full a<g ref="char:EOLhyphen"/>mends for all reproches.</p>
+            <closer>
+               <signed>WILLIAM WALWIN</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>IMPRIMATVR,</p>
+            <closer>
+               <signed>IOHN BACHILER.</signed> 
+               <dateline>
+                  <date>May 26. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
